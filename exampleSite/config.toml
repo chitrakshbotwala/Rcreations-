@@ -81,7 +81,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/channels4_profile.png"
+logo = "images/channels4_profile.jpg"
 home = "Home"
 # Meta data
 description = "This is meta description"
