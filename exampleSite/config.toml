@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/hargo/examplesite/"
+baseURL = "rcreations.netlify.app"
 languageCode = "en"
 title = "Rcreations | A place where you find creativity"
 theme = "hargo-hugo"
